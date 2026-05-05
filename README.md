@@ -1,4 +1,4 @@
-# Registration System
+# University Registration System
 
 ## Project Overview
 The Registration System is a web application designed to manage user registration and roles efficiently. It allows users to create accounts, log in, and manage their profiles while providing administrators with the ability to oversee user activity and manage user roles.
